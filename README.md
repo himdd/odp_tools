@@ -8,7 +8,7 @@ chmod +x ./odp_tools/script/make.sh
 ## 使用
 在make.sh中ODP_PATH为odp的根目录
 
-进入项目在build.sh的目录下执行
+进入项目在build.sh的目录下执行make.sh即可把项目部署到odp环境下
 ```bash
 make.sh
 ```
